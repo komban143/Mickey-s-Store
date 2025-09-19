@@ -158,7 +158,7 @@ function App() {
               </div>
               <h3 className="text-2xl font-bold mb-2">Mickey's Magical Store</h3>
               <p className="text-yellow-200 mb-6">Where dreams come true for kids everywhere!</p>
-              <p className="text-sm opacity-75">© 2024 Mickey's Magical Store. All rights reserved.</p>
+              <p className="text-sm opacity-75">© 2025 Mickey's Magical Store. All rights reserved by Murali.</p>
             </div>
           </footer>
 
